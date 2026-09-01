@@ -1,0 +1,3 @@
+Hello Github!
+
+This repository will help me prepare for my course project.
